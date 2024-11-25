@@ -7,8 +7,8 @@ particularly proud of that contribute to my profressional character.
 
 # [Rosati-Kain 2019 I/ITSEC Trip](IITSEC_rk/README.md)
 
-In 2019, I helped arrange for two students from Rosati-Kain high school to attend the [I/ITSEC conference](https://www.iitsec.org/) in
-Orlando Florida.  This was an amazing experience for all.
+In 2019, I helped arrange and mentor two students from Rosati-Kain high school to attend the [I/ITSEC conference](https://www.iitsec.org/) in
+Orlando Florida.  This effort was a special event within the Rosati-Kain coding club.
 
 ![alt text](IITSEC_rk/20181126_185104.jpg)
 
