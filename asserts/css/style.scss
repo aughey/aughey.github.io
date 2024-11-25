@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 .inner {
-    width: 70%;
+  max-width: 75%;
 }
