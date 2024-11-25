@@ -1,51 +1,56 @@
 # Rosati-Kain I/ITSEC 2019 Future Leader Pavilion
 
-In 2019, John mentored the Rosati-Kain Catholic High School in their participation at the Future Leaders Pavilion at the I/ITSEC conference.  This program is a STEM outreach effort by the conference to attract interest at the High School level.
+In 2019, John mentored students from Rosati-Kain Catholic High School as they participated in the Future Leaders Pavilion at the I/ITSEC conference. This initiative is part of a STEM outreach program designed to inspire high school students to pursue science and technology fields.
 
-Students from around the country create a project, write a paper on their work, and present their efforts at the conference.  They speak one-on-one with leaders from around the world to demonstrate their work and gain vaulable insight and professional experience in this unique venue.
+The program challenges students nationwide to create a project, write a research paper, and present their findings at the conference. They interact directly with global industry leaders, gaining valuable insights and professional experience in a world-class setting.
 
 ![alt text](20181126_185104.jpg)
 
-Carolyn Aughey (my daughter), and Frankie , seniors at Rosati-Kain High School, traveled to I/ITSEC on a scholarship to present their project.
+Carolyn Aughey (my daughter) and Frankie, both seniors at Rosati-Kain High School, attended I/ITSEC on a scholarship to showcase their innovative project.
 
 ![alt text](20181127_131106.jpg)
 
-Here Carolyn is explaining to one of many people who frequented their station to learn more about what was created and how it makes a difference.
+Carolyn engages with one of the many attendees at their station, explaining the project and its impact in detail. Their work drew significant interest throughout the event.
+
+
 
 ![alt text](20181127_142209.jpg)
 
-Frankie is speaking to Ray Stephenson of Motion Analysis who's company specializes in tracking motion.  Carolyn and Frankie's study focused on tracking the motion of a Lacrosse stick using a small microcontroller.
+Frankie discusses their project with Ray Stephenson from Motion Analysis, a company specializing in motion-tracking technology. Their project focused on tracking the movement of a lacrosse stick using a microcontroller.
 
 ![alt text](20181127_161714.jpg)
 
-During the conference, Carolyn got to experience many advanced training solutions including this research prototype which simulates the flight of a bird using virtual reality.
+Carolyn explores cutting-edge training technologies, including this research prototype that uses virtual reality to simulate the experience of bird flight.
 
 ![alt text](20181128_114015.jpg)
 
-Here Carolyn and Frankie are inside of a wide-body aircraft simulator.
+Carolyn and Frankie step inside a wide-body aircraft simulator, experiencing advanced simulation technology firsthand.
 
 ![alt text](20181128_164819.jpg)
 
-All teams in the Future Leaders Pavilion gave a formal presentation of their work to their peers and interested conference attendees.  Carolyn and Frankie's title was *Improving Physical Performance Through Low-Cost Motion Analysis*.
+As part of the Future Leaders Pavilion, all teams presented their work in a formal session to peers and conference attendees. Carolyn and Frankie's presentation was titled *Improving Physical Performance Through Low-Cost Motion Analysis.*
+
 
 ![alt text](20181129_142832.jpg)
 
-Their efforts were recognized by a 3rd place award.
+Their hard work and innovative approach earned them a 3rd place award in the competition.
 
 ![alt text](20181129_092612.jpg)
 
-Staffing the booth for 6+ hours a day is a grueling activity for the best of us.
+Manning the booth for over six hours each day was a demanding task, but Carolyn and Frankie tackled it with enthusiasm and dedication.
 
 ![alt text](20181129_182104.jpg)
 
-The conference concludes with an awards banquet.  Here all students are being recognized by Rear Admiral James Robb at a private event.
+The event concluded with an awards banquet, where all participating students were recognized by Rear Admiral James Robb at a private gathering.
+
 
 ![alt text](20181129_194021.jpg)
 
 ![alt text](20181129_185407.jpg)
 
-At the awards banquet with 700+ delegates from 60 countries, Rear Admiral James Robb emphesises the importance of this demographic to the future of our country.
+The awards banquet, attended by over 700 delegates from 60 countries, featured a keynote from Rear Admiral James Robb, who emphasized the importance of cultivating talent in this demographic for the nation's future.
+
 
 ![Show Daily](20181128_112049.jpg)
 
-The Future Leader Pavilion was featured in the Show Daily, an on-the-spot daily publication of conference activities.
+The Future Leaders Pavilion received significant recognition, including coverage in the Show Daily, the conference’s official publication.
