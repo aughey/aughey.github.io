@@ -1,4 +1,4 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 title: John Aughey's Info
 description: github pages hosted content for professional and personal information on John Aughey
 plugins:
