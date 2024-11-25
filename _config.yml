@@ -1,3 +1,5 @@
-theme: slate
+theme: pages-themes/slate@v0.2.0
 title: John Aughey's Info
 description: github pages hosted content for professional and personal information on John Aughey
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
