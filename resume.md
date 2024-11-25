@@ -56,7 +56,7 @@ Technical Fellow with over 26 years at The Boeing Company, specializing in softw
     - Coordinated efforts with Boeing Research & Technology, Insitu, and other divisions to develop innovative technologies.
     - Engaged with special operations and intelligence community customers to tailor solutions and products to their unique requirements.
 
-- __Associate Technical Fellow, The Boeing Company, St. Louis, MO | 2016 – 2019__
+- __Associate Technical Fellow, The Boeing Company, St. Louis, MO, 2016 – 2019__
     - __Technical Innovation:__
         - __Geospatial Technology Development:__
             - Principal Innovator on a CRADA with the NGA, focusing on geospatial exploitation technologies.
@@ -72,7 +72,7 @@ Technical Fellow with over 26 years at The Boeing Company, specializing in softw
     - __Customer Engagement:__
         - Presented technological advancements at technical interchange meetings with the intelligence community.
         - Facilitated on-site demonstrations for customers nationwide, fostering strong relationships and securing follow-on work.
-- Senior Software Engineer, The Boeing Company, St. Louis, MO | 2009 – 2016
+- Senior Software Engineer, The Boeing Company, St. Louis, MO, 2009 – 2016
     - __Phantom Works Division:__
         - __Ground Forces Training Technologies:__
             - Led the development of multi-touch interfaces and VR applications for ground forces training.
@@ -99,8 +99,8 @@ Technical Fellow with over 26 years at The Boeing Company, specializing in softw
             - Pioneered the use of Linux as an alternative real-time operating system for simulation applications, enhancing performance and reducing costs.
 
 # Education
-- __Master of Science in Computer Science__, Washington University in St. Louis, St. Louis, MO | 2002
-- __Bachelor of Science in Computer Science__, Purdue University, West Lafayette, IN | 1996
+- __Master of Science in Computer Science__, Washington University in St. Louis, St. Louis, MO, 2002
+- __Bachelor of Science in Computer Science__, Purdue University, West Lafayette, IN, 1996
 
 # Certifications & Affiliations
 - Technical Fellow, The Boeing Company
