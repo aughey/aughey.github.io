@@ -1,3 +1,5 @@
+# Resume
+
 # John Aughey
 7310 Bruno Avenue, St. Louis, MO 63117\
 (314) 610-8764\
@@ -47,7 +49,7 @@ Technical Fellow with over 26 years at The Boeing Company, specializing in softw
         - Guided student interns through projects involving AI, virtual reality, data analytics, and modern software development practices.
     - __Founder and Mentor of Coding Club at Rosati-Kain High School (2016 – 2019):__
         - Established a coding club at Rosati-Kain High School, engaging students in software development and technology.
-        - Led students through projects exploring game development, 3D modeling, interactive game creation using Unity, and virtual reality.
+        - Designed curriculum and led students through projects exploring game development, 3D modeling, interactive game creation using Unity, and virtual reality.
         - Facilitated participation in World Wide Technology hackathon programs.
         - In 2018, mentored two female students to develop a project, write a paper, and present it at the I/ITSEC conference as part of the conference's STEM educational outreach.
 - __Cross-Divisional Collaboration:__
