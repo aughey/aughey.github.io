@@ -1,3 +1,3 @@
 # Aughey.com readme 
 
-Hmmm
+[Resume](resume.md)
