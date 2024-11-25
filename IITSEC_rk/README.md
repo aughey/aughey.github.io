@@ -8,6 +8,10 @@ The program challenges students nationwide to create a project, write a research
 
 Carolyn Aughey (my daughter) and Frankie, both seniors at Rosati-Kain High School, attended I/ITSEC on a scholarship to showcase their innovative project.
 
+![alt text](20180411_125439.jpg)
+
+Long before the trip was a possibility, skills such as soldering had to be learned here at home.
+
 ![alt text](20181127_131106.jpg)
 
 Carolyn engages with one of the many attendees at their station, explaining the project and its impact in detail. Their work drew significant interest throughout the event.
