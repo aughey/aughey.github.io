@@ -20,7 +20,7 @@ Technical Fellow with over 26 years at The Boeing Company, specializing in softw
 - Innovation & Patent Development
 
 # Professional Experience
-- __Technical Fellow, The Boeing Company, St. Louis, MO | 2019 – Present__
+- __Technical Fellow, The Boeing Company, St. Louis, MO, 2019 – Present__
     - __Enterprise Leadership:__
         - Software Design Practices Approval Board Member (2019 – Present):
         - Serving since the board's inception, representing Boeing Global Services among four members from Defense, Commercial, Research, and Services.
