@@ -6,7 +6,7 @@
 <jha@aughey.com>
 
 ## Professional Summary
-Technical Fellow with over 26 years at The Boeing Company, specializing in software engineering, innovation, and leadership. Expert in memory-safe programming languages, spearheading the adoption of Rust across the enterprise. Proven track record in developing advanced technologies for aerospace, defense, and intelligence applications. Holds multiple patents and recognized for contributions to enterprise-wide software practices. Dedicated mentor and advocate for modern software development methodologies.
+Technical Fellow with over 28 years at The Boeing Company, specializing in software engineering, innovation, and leadership. Expert in memory-safe programming languages, spearheading the adoption of Rust across the enterprise. Proven track record in developing advanced technologies for aerospace, defense, and intelligence applications. Holds multiple patents and recognized for contributions to enterprise-wide software practices. Dedicated mentor and advocate for modern software development methodologies.
 
 # Core Competencies
 - Memory-Safe Programming Languages (Rust)
