@@ -11,6 +11,8 @@ Along the way, we’ll clarify the reasoning behind using traits to define behav
 
 A rambling video version of this content is available on my [Rust Programmer YouTube Page](https://www.youtube.com/watch?v=tOYlxaC-3QQ).
 
+All of the source code in a devcontainer is in my [GitHub Repository](https://github.com/aughey/rust_actor_pattern).
+
 ---
 
 ## Traditional Actor Approach
@@ -258,16 +260,13 @@ By the end of `main`, you’ll see each approach in action, from a `u32` counter
    A trait is essentially a **contract**: *“If you give me a mutable reference, I will return a future that resolves to a unique ID.”* Any type that can fulfill this, whether it’s a local counter, an actor’s channel handle, or an external service proxy, can slot right in.
 
 4. **Compiler-Assisted Design**  
-   Rust’s compiler ensures that any type claiming to implement the trait actually implements the required async function properly. This yields more robust, correct code.
-
-5. **Easy Integration**  
-   A trait-based approach sits neatly in typical async Rust. You can spawn tasks, forward trait objects, or store them in data structures without reinventing the wheel for each type.
+   We're allowing the compiler to resolve types that implement the trait to both generate machine code for that specific implementation, and to reduce the footprint of the type to the specific action described in the trait.
 
 ---
 
 ## Final Thoughts
 
-The classic actor pattern—exemplified by Alice’s code—remains a fantastic way to structure concurrency. Sometimes you need or want explicit structs, enumerations, and carefully managed states. Other times, especially for simpler or more focused behaviors, a trait-based style can work wonders.
+The classic actor pattern—exemplified by Alice’s code—remains a traditional way to structure actor implementation. Sometimes you need or want explicit structs, enumerations, and carefully managed states. Other times, especially for simpler or more focused behaviors, a trait-based style can work wonders.
 
 By *teaching* the compiler how a type should behave, we strip away superfluous structs, reduce code noise, and keep our focus on the behavior we care about—**generating IDs**—rather than on mechanical boilerplate.
 
